@@ -1,0 +1,17 @@
+Reference,Qty,Value,Price (USD),Footprint,Datasheet
+"C1,C2",2,4.7uF,0.4,Capacitor_SMD:C_0603_1608Metric,~
+"C3,C4",2,10uF,0.4,Capacitor_SMD:C_0603_1608Metric,~
+C5,1,100nF,0.1,Capacitor_SMD:C_0603_1608Metric,~
+D1,1,Blue (Charge),0.1,OPL_Optoelectronics:LED-0603,~
+J2,1,Battery (JST-PH),0.75,Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,~
+J3,1,Conn_01x08,0.4,Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal,~
+R3,1,2k,0.01,Resistor_SMD:R_0603_1608Metric,~
+R4,1,470,0.01,Resistor_SMD:R_0603_1608Metric,~
+"R5,R6,R7",3,10k,0.03,Resistor_SMD:R_0603_1608Metric,~
+SW1,1,RotaryEncoder,0.5,Rotary_Encoder:Rotary Encoder bruh,~
+"SW2,SW3,SW4,SW5",4,SW_Push,2,Button_Switch_THT:SW_PUSH-12mm,~
+U1,1,WEMOS_C3_mini,9,RF_Module:WEMOS_C3_mini,https://www.wemos.cc/en/latest/c3/c3_mini.html
+U2,1,MCP73831-2-OT,$0.85 ,Package_TO_SOT_SMD:SOT-23-5,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+U3,1,ME6211C33M5,0.15,Package_TO_SOT_SMD:SOT-23-5,https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_MICRONE-Nanjing-Micro-One-Elec-ME6211C33R5G_C235316.pdf
+U4,1,~,2,ME:Battery_Guage,
+Total,,,,,
