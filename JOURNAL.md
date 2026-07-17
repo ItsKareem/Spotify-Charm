@@ -15,7 +15,7 @@
 
 First project I do without already having an idea on how to make the thing I want to. The devboard had the RP2040 datasheet, the blink board is very beginner friendly and has a lot of helpful guides, and the power supply is something I learned how it works from a circuits course.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgxODQsInB1ciI6ImJsb2JfaWQifX0=--5be6f985ca5c3ecf09c4af9bf17a60b8c7cf2989/image.png)
+![image.png](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgxODQsInB1ciI6ImJsb2JfaWQifX0=--5be6f985ca5c3ecf09c4af9bf17a60b8c7cf2989/image.png)
 
 I really like the concept I have in mind. I still have a lot of work to do today we'll see ahgxzghafldasiofhjhfh
 
@@ -42,7 +42,7 @@ Then I connected the battery stuff and the screen I wanted to the WEMOS ESP32-C3
 
 Then I connected the 3 buttons, power button, and rotary encoder for volume and THAT'S IT!
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE0NjcsInB1ciI6ImJsb2JfaWQifX0=--1dfe1a5577337b9062704ed11c2163810fc55b45/image.png)
+![image.png](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE0NjcsInB1ciI6ImJsb2JfaWQifX0=--1dfe1a5577337b9062704ed11c2163810fc55b45/image.png)
 
 
 ### Recording Links
@@ -65,7 +65,7 @@ Also you have to poke holes to mount your screen on.
 
 It took so long for me to find 3D models for everything I needed tho T-T
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE0NzAsInB1ciI6ImJsb2JfaWQifX0=--e9f98f271afd734e47e9dbe17c55b120e3e722d5/image.png)![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE0NzIsInB1ciI6ImJsb2JfaWQifX0=--d82b0a0f42c01508df787a186d7838c32a515811/image.png)
+![image.png](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE0NzAsInB1ciI6ImJsb2JfaWQifX0=--e9f98f271afd734e47e9dbe17c55b120e3e722d5/image.png)![image.png](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE0NzIsInB1ciI6ImJsb2JfaWQifX0=--d82b0a0f42c01508df787a186d7838c32a515811/image.png)
 
 
 
@@ -91,7 +91,7 @@ I didn't know what color to make it since I kinda wanted it to be transparent so
 
 My last session for this was not logged because I forgot but it's basically me doing the same thing until it looked right. I changed the button holes to squares tho.
 
-![image (33).png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE0NzQsInB1ciI6ImJsb2JfaWQifX0=--1bdf9e72d024f03baf9b125c19836d1a7ca732ba/image (33).png)
+![image (33).png](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE0NzQsInB1ciI6ImJsb2JfaWQifX0=--1bdf9e72d024f03baf9b125c19836d1a7ca732ba/image_(33).png)
 
 
 ### Recording Links
