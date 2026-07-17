@@ -1,5 +1,6 @@
 # Spotify Charm — Journal Export
 
+- 19h 41m total (on fallout)
 - Exported at: 2026-07-17T17:10:31Z
 - Project ID: 4572
 - Entries: 4
